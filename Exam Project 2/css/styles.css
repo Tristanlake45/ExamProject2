@@ -6,7 +6,10 @@ img{
     max-width: 100%;
     display:block;
 }
-
+body, html {
+    margin: 0;
+    padding: 0;
+}
 /* rules for headers*/
 header {
     position: -webkit-sticky;
